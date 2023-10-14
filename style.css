@@ -182,31 +182,31 @@ header {
    border-bottom: 0.2rem solid var(--green);
 }
 .img1 {
-   background: url(images/idan_blog.jpg) no-repeat;
+   background: url(images/apple_copy.jpg) no-repeat;
 }
 .img2 {
-   background: url(images/restaurant-website.jpg) no-repeat;
+   background: url(images/use_popcorn.jpg) no-repeat;
 }
 .img3 {
-   background: url(images/creative_design_website.jpg) no-repeat;
+   background: url(images/idan_blog.jpg) no-repeat;
 }
 .img4 {
-   background: url(images/quiz_app.jpg) no-repeat;
+   background: url(images/wine_house.jpg) no-repeat;
 }
 .img5 {
-   background: url(images/age_calculator.jpg) no-repeat;
+   background: url(images/exchange_rate.jpg) no-repeat;
 }
 .img6 {
-   background: url(images/password_generator.jpg) no-repeat;
+   background: url(images/the_trip.jpg) no-repeat;
 }
 .img7 {
-   background: url(images/slide_show.jpg) no-repeat;
+   background: url(images/password_generator.jpg) no-repeat;
 }
 .img8 {
-   background: url(images/simon_game.jpg) no-repeat;
+   background: url(images/creative_design_website.jpg) no-repeat;
 }
 .img9 {
-   background: url(images/calculator.jpg) no-repeat;
+   background: url(images/age_calculator.jpg) no-repeat;
 }
 .project-img {
    width: 100%;
@@ -344,7 +344,7 @@ footer .container {
    }
 }
 @media screen and (max-width: 520px) {
-   .nav-menu{
+   .nav-menu {
       width: 20rem;
    }
    .skills {
